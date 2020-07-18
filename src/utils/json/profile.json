@@ -1,0 +1,57 @@
+{
+  "nama": "Angry Man",
+  "status": "Web Developers",
+  "alamat": "Indonesia, Ciamis",
+  "avatar": "/images/anime.png",
+  "website": "https://supryantowp.tech",
+  "bio": "saya adalah seorang programmer pemula baru berkicimbung di dunia programming sejak tahun lalu",
+  "socialmedia": {
+    "facebook": "facebook.com/supryantowp",
+    "twitter": "twitter.com/supryantowp",
+    "linkedin": "linked.in/supryantowp",
+    "youtube": "youtube.com/supryantowp",
+    "instagram": "instagram.com/supryantowp"
+  },
+  "skills": [
+    "php",
+    "nodejs",
+    "javascript",
+    "python",
+    "laravel",
+    "vue",
+    "javascript",
+    "python",
+    "laravel",
+    "vue",
+    "reactjs"
+  ],
+  "pengalaman": [
+    {
+      "title": "Mangang",
+      "perusahaan": "smkn 1 ciamis",
+      "alamat": "Indonesia, Ciamis",
+      "sejak": "2020",
+      "sampai": "2020",
+      "masih": true,
+      "description": "sangat menyenaknagn"
+    }
+  ],
+  "pendidikan": [
+    {
+      "sekolah": "SMP 3 CIAMIS",
+      "kelas": 9,
+      "jurusan": "",
+      "sejak": "2015",
+      "sampai": "2018",
+      "description": "sangat menyenaknagn"
+    },
+    {
+      "sekolah": "SMK 1 Ciamis",
+      "kelas": 12,
+      "jurusan": "RPL",
+      "sejak": "2018",
+      "sampai": "2021",
+      "description": "sangat menyenaknagn"
+    }
+  ]
+}

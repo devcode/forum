@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Angry Man",
+    "status": "Web Developers",
+    "alamat": "Indonesia, Ciamis",
+    "avatar": "/images/angry-man.png"
+  },
+  {
+    "id": 2,
+    "nama": "Bald Man",
+    "status": "Android Developer",
+    "alamat": "Indonesia, Bandung",
+    "avatar": "/images/bald-man.png"
+  },
+  {
+    "id": 3,
+    "nama": "Binis Man",
+    "status": "Pelajar",
+    "alamat": "Indonesia, Surabaya",
+    "avatar": "/images/bisnis-man.png"
+  }
+]
